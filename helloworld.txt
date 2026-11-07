@@ -1,4 +1,6 @@
 ws1:
 	hello
+	ws2:
+		test
 ws2:
 	world
