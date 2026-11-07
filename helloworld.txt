@@ -1,2 +1,4 @@
 ws1:
 	hello
+ws2:
+	world
